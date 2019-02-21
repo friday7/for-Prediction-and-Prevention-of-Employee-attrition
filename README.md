@@ -1,0 +1,2 @@
+# for-Prediction-and-Prevention-of-Employee-attrition
+Employee attrition has been a nightmare for many organizations irrespective of their size or stature. Losing talent costs a company direly in terms of time and money which makes research in this field a necessity. This research sheds light on this topic and narrows down the reasons for attrition to allow prediction based on probabilistic methods using the Naïve Bayes probabilistic approach for consequential event occurrence in the HR (human resources) management domain. 
