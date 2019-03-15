@@ -1,4 +1,4 @@
-setwd('/Users/Raghav/Downloads')
+setwd('/Users/yourrepository')
 #####overall business module of tedx
 
 library(caret)
