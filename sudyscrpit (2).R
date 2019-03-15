@@ -1,5 +1,5 @@
 setwd('/Users/yourrepository')
-#####overall business module of tedx
+#####overall business module 
 
 library(caret)
 library(e1071)
